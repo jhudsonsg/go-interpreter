@@ -1,0 +1,9 @@
+inicio
+    definir variavel: real
+    
+    se variavel > 1
+    entao 
+        definir v1: cadeia
+        definir v2: cadeia
+    fim
+fim
